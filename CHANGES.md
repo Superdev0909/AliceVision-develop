@@ -13,6 +13,7 @@
 - Automatically align the sfm result [PR](https://github.com/alicevision/AliceVision/pull/1546)
 - New pipeline for pure rotation tracking [PR](https://github.com/alicevision/AliceVision/pull/1548)
 - KeyframeSelection: Add support for masks [PR](https://github.com/alicevision/AliceVision/pull/1518)
+- kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
 
 ### Other Improvements
 
