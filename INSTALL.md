@@ -11,7 +11,7 @@ Required tools:
 
 ### Compile the project  
 
-Getting the sources:
+Getting the sources:  
 
 ```bash
 git clone https://github.com/alicevision/AliceVision.git --recursive
