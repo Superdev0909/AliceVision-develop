@@ -10,7 +10,7 @@ Mozilla Public License Version 2.0
 
 1.2. "Contributor Version"
     means the combination of the Contributions of others (if any) used
-    by a Contributor and that particular Contributor's Contribution.
+    by a Contributor and that particular Contributor's Contribution.  
 
 1.3. "Contribution"
     means Covered Software of a particular Contributor.
