@@ -6,7 +6,7 @@ In order to foster a friendly atmosphere where technical collaboration can flour
 we recommend you to read the [code of conduct](CODE_OF_CONDUCT.md).
 
 
-Contributing Workflow
+Contributing Workflow 
 ---------------------
 
 The contributing workflow relies on [Github Pull Requests](https://help.github.com/articles/using-pull-requests/).
