@@ -8,7 +8,7 @@ ea46ddca23332c115790c02105372bda37d943e3
 938c0e83497c94ef6506c00ded61cf1da00e4ca5
 # Reformat src/aliceVision with latest clang-format rules
 580ebb7f344787126008af972f765aea9eacb2ac
-# [sfmData] imageInfo: Clean-up: Harmonize and use 4-space indentation everywhere
+# [sfmData] imageInfo: Clean-up: Harmonize and use 4-space indentation everywhere 
 68e253d510ba2c7cf3fadaf7b49e69d37fb95d2e
 # Clean-up CMakeLists.txt and Dependencies.cmake
 d9e5c931bda22e951cfbce32da8fede71f8d244c
