@@ -7,7 +7,7 @@ option(AV_EIGEN_MEMORY_ALIGNMENT "Enable Eigen memory alignment" ON)
 option(ALICEVISION_BUILD_TESTS "Build AliceVision tests" OFF)
 option(AV_USE_CUDA "Enable CUDA" ON)
 option(AV_USE_OPENMP "Enable OpenMP" $<$<CXX_COMPILER_ID:"AppleClang">,OFF,ON>) # disable by default for AppleClang
-option(BUILD_SHARED_LIBS "Build shared libraries" ON)
+option(BUILD_SHARED_LIBS "Build shared libraries" ON) 
 
 if(NOT CMAKE_BUILD_TYPE)
     set(CMAKE_BUILD_TYPE Release CACHE STRING "Build type for AliceVision" FORCE) 
