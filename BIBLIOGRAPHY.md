@@ -8,7 +8,7 @@
     V. Lepetit and F. Moreno-Noguer and P. Fua, IJCV 2009. vol. 81, no. 2.
     
 [HZ] **Multiple view geometry in computer vision.**
-    Hartley, Richard, and Andrew Zisserman. 
+    Hartley, Richard, and Andrew Zisserman.  
     Vol. 2. Cambridge, 2000.
     
 [Stewenius] **Recent Developments on Direct Relative Orientation.**
