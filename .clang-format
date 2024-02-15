@@ -1,4 +1,4 @@
-BasedOnStyle: Mozilla
+BasedOnStyle: Mozilla 
 AlignTrailingComments: true
 AllowAllConstructorInitializersOnNextLine: true
 AllowAllParametersOfDeclarationOnNextLine: false
