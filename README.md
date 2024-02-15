@@ -6,7 +6,7 @@ The project is a result of collaboration between academia and industry to provid
 
 Learn more details about the pipeline and tools based on it on [AliceVision website](http://alicevision.github.io).
 
-See [results of the pipeline on sketchfab](http://sketchfab.com/AliceVision).
+See [results of the pipeline on sketchfab](http://sketchfab.com/AliceVision). 
 
 
 ## Photogrammetry
