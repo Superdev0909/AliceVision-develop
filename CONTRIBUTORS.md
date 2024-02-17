@@ -1,4 +1,4 @@
-AliceVision Contributors
+AliceVision Contributors 
 ========================
 
 The project is released under [MPLv2](LICENSE-MPL2.md).
