@@ -11,7 +11,7 @@ IMAGE_WIDTH = 500
 IMAGE_HEIGHT = 375
 
 # Python dictionary containing the metadata of data/img.jpg
-METADATA = {
+METADATA = { 
     "AliceVision:SensorWidth": "4.890000",
     "DateTime": "2018:01:26 15:23:28",
     "Exif:ApertureValue": "1.69599",
