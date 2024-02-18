@@ -6,7 +6,7 @@
 import subprocess
 
 # -- Project information -----------------------------------------------------
-# https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
+# https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information 
 
 project = 'AliceVision'
 copyright = '2022, AliceVision Association'
