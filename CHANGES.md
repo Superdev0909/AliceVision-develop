@@ -1,6 +1,6 @@
 # AliceVision Changelog
 
-## Release 3.2.0 (2023/12/07)
+## Release 3.2.0 (2023/12/07) 
 
 ### Major Features
 
