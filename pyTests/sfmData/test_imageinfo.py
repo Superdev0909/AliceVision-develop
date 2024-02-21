@@ -1,4 +1,4 @@
-"""
+""" 
 Collection of unit tests for the ImageInfo class.
 """
 
