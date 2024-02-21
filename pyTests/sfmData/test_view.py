@@ -6,7 +6,7 @@ from aliceVision import sfmData as av
 from ..constants import IMAGE_PATH, VIEW_ID, INTRINSIC_ID, POSE_ID, IMAGE_WIDTH, \
     IMAGE_HEIGHT, RIG_ID, SUBPOSE_ID, METADATA
 
-##################
+################## 
 ### List of functions:
 # - View(imagePath = "", viewId = UndefinedIndexT, intrinsicId = UndefinedIndexT,
 #        poseId = UndefinedIndexT, width = 0, height = 0, rigId = UndefinedIndexT,
