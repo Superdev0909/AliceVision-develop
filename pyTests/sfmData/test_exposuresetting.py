@@ -3,7 +3,7 @@ Collection of unit tests for the ExposureSetting class.
 """
 
 from aliceVision import sfmData as av
-
+ 
 ##################
 ### List of functions:
 # - ExposureSetting() => DONE
