@@ -1,4 +1,4 @@
-## AliceVision License 
+## AliceVision License  
 
 AliceVision is licensed under the [MPL2 license](LICENSE-MPL2.md).
 
