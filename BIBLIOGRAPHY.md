@@ -1,4 +1,4 @@
-# Bibliography
+# Bibliography 
 
 [Kneip] **A Novel Parametrization of the P3P-Problem for a Direct Computation of Absolute Camera Position and Orientation.**
     Kneip, L.; Scaramuzza, D. ; Siegwart, R.
