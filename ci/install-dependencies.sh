@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 set -e
 CURRDIR="$( cd "$( dirname "$( readlink -f "${BASH_SOURCE[0]}" )" )" && pwd )"
 . "${CURRDIR}/env.sh"
