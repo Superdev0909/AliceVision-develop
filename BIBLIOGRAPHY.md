@@ -15,7 +15,7 @@
       H. Stewenius, C. Engels and D. Nister.
       ISPRS 2006
 
-[Nister] **An Efficient Solution to the Five-Point Relative Pose.**
+[Nister] **An Efficient Solution to the Five-Point Relative Pose.** 
     D. Nister
     PAMI 2004
     
