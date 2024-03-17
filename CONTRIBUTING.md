@@ -3,7 +3,7 @@ Contributing to AliceVision
 
 Alice Vision relies on a friendly and community-driven effort to create an open source photogrammetry solution.
 In order to foster a friendly atmosphere where technical collaboration can flourish,
-we recommend you to read the [code of conduct](CODE_OF_CONDUCT.md).
+we recommend you to read the [code of conduct](CODE_OF_CONDUCT.md). 
 
 
 Contributing Workflow 
