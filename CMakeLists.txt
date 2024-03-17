@@ -10,7 +10,7 @@ option(AV_USE_OPENMP "Enable OpenMP" $<$<CXX_COMPILER_ID:"AppleClang">,OFF,ON>) 
 option(BUILD_SHARED_LIBS "Build shared libraries" ON) 
 
 if(NOT CMAKE_BUILD_TYPE)
-    set(CMAKE_BUILD_TYPE Release CACHE STRING "Build type for AliceVision" FORCE) 
+    set(CMAKE_BUILD_TYPE Release CACHE STRING "Build type for AliceVision" FORCE)  
 endif()
 
 # set(CMAKE_BUILD_TYPE "Release" CACHE STRING "Build type for AliceVision")
