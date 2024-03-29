@@ -1,6 +1,9 @@
 cmake_minimum_required(VERSION 3.12)
 message("CMake version: ${CMAKE_MAJOR_VERSION}.${CMAKE_MINOR_VERSION}")
 
+
+
+
 # ==============================================================================
 # AliceVision version
 # ==============================================================================
